@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Sonal (pronounced soh-null)
-- 🚀 I'm a technology pragmatist (and somewhat purist) at heart, that's currently leading an engineering team in NHS.UK. I’m all about striving for engineering excellence and gender equity within the NHS.
+- 🚀 I'm all about striving for engineering excellence and gender equity within the NHS, I’m a technology pragmatist at heart — with a touch of purist. Currently, I'm leading an engineering team at NHS.UK.
 - 💖 I love python, cloud technologies, and all the boring/interesting tech that's required for strategic engineering!
